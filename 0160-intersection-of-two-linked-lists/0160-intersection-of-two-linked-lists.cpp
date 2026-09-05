@@ -6,8 +6,18 @@ public:
         ListNode* tempB = headB;
 
         while(tempA != tempB){
-            tempA = (tempA == NULL) ? headB : tempA->next;
-            tempB = (tempB == NULL) ? headA : tempB->next;
+            if(tempA==NULL){
+                tempA= headB;
+            }
+            else{
+                tempA = tempA->next;
+            }
+             if(tempB==NULL){
+                tempB= headA;
+            }
+            else{
+                tempB = tempB->next;
+            }
         }
 
         return tempA;
