@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-shivendra/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tech-shivendra/DSA/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tech-shivendra/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/tech-shivendra/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
