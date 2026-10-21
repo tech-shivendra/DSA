@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/tech-shivendra/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0881-boats-to-save-people](https://github.com/tech-shivendra/DSA/tree/master/0881-boats-to-save-people) |
 ## Array
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/tech-shivendra/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/tech-shivendra/DSA/tree/master/0682-baseball-game) |
+| [0881-boats-to-save-people](https://github.com/tech-shivendra/DSA/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/tech-shivendra/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tech-shivendra/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/tech-shivendra/DSA/tree/master/0938-range-sum-of-bst) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tech-shivendra/DSA/tree/master/0881-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tech-shivendra/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tech-shivendra/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
